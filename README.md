@@ -32,7 +32,6 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontierFlight&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=我的常用语言"/>
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=frontierFlight&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Demo's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontierFlight&layout=compact&theme=buefy&hide_border=true" /> |
